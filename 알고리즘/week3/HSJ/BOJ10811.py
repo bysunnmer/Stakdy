@@ -6,4 +6,4 @@ for _ in range(M):
   new.reverse()
   basket[i-1:j] = new
 
-  print(*basket)
+print(*basket)
